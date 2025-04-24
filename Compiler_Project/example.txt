@@ -1,0 +1,5 @@
+start;
+int x;
+read(x);
+write(x);
+stop;
